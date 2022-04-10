@@ -1,0 +1,101 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 10px;
+	height: 100%;
+	font-family: 'Comforter', cursive;
+}
+body {
+	height: 100%;
+	background: url(../img/background.jpg);
+}
+.first-section {
+	background-color: #EACB6F;
+ 	padding: 20px;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+}
+.second-section {
+	background-color: #EACB6F;
+ 	margin-top: 50px;
+ 	margin-left:20%;
+ 	margin-right:20%;
+ 	padding-bottom: 600px;
+ 	box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+}
+.secondvseconde{
+
+}
+.part {
+	width: 100%;
+}
+.pomogite{
+	background-color:#EACB6F;
+}
+h1 {
+	text-align: center;
+	font-size: 190%;
+	letter-spacing: 2px;
+}
+.text {
+	font-size: 220%;
+	margin: 30px auto;
+	line-height: 1.65;
+	letter-spacing: 0.7px;
+}
+.ssilka {
+	text-decoration: none;
+	color: #929aab;
+	display: inline-block;
+	margin: 20px 0;
+	border-bottom: 1px solid transparent;
+	transition: 0.2% ease-in;
+}
+p{
+	text-align: center;
+	font-size: 150%;
+	letter-spacing: 2px;
+}
+textarea{
+	margin-left: 25%;
+	background-color: #EACB6F;
+}
+.ssilka:hover {
+	border-bottom-color: #FFC300;
+	color: #FFC300;
+}
+img{
+	max-width: 50%;
+	height: auto;
+	display: block;
+	margin:auto;
+
+}
+.photo1{
+	background-image: url(../img/1.jpg);
+}
+.da{
+	text-align: center;
+	padding	: 30px;
+}
+a{
+	font-size: 150%;
+	color: #000000;
+}
+.ssilka {
+	text-decoration: none;
+	color: #000000;
+	display: inline-block;
+	margin: 0px 0;
+	border-bottom: 1px solid transparent;
+	transition: 0.2% ease-in;
+}
+
+.ssilka:hover {
+	border-bottom-color: #000000;
+	color: #000000;
+}
